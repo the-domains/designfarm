@@ -12,3 +12,8 @@ color:
     - '#E2F0D6'
     - '#F6FFE0'
 name: DesignFarm
+navigation:
+  - id: 'https://thegrid.ai/designfarm/home/'
+    url: 'https://thegrid.ai/designfarm/home/'
+    name: Home
+    type: external

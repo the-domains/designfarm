@@ -4,8 +4,15 @@
         <description><![CDATA[DesignFarm]]></description>
         <link>https://thegrid.ai/designfarm/home/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 07:04:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 07:54:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designfarm/home/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[products]]></title>
+            <description><![CDATA[<article><h1>products</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a489341531c5921329ff749e0060b16/croprotate.jpg?cropheight=2549&cropwidth=3093&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe7255ec5-21ed-4409-bb3e-fe6d65735367.jpg&x=103&y=0"></article>]]></description>
+            <link>https://thegrid.ai/designfarm/home/dffc18d8-af8e-4eea-a0bf-19c9ff8758ab/index.html</link>
+            <guid isPermaLink="false">dffc18d8-af8e-4eea-a0bf-19c9ff8758ab</guid>
+            <pubDate>Thu, 21 Jul 2016 07:54:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/941263e1-15a2-46f0-99c3-8a93f24b6e74.png">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/designfarm/home/c0cc040b-14fd-4b47-b635-fc9185952c62/index.html</link>
             <guid isPermaLink="false">c0cc040b-14fd-4b47-b635-fc9185952c62</guid>
             <pubDate>Thu, 21 Jul 2016 07:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7255ec5-21ed-4409-bb3e-fe6d65735367.jpg">]]></description>
-            <link>https://thegrid.ai/designfarm/home/dffc18d8-af8e-4eea-a0bf-19c9ff8758ab/index.html</link>
-            <guid isPermaLink="false">dffc18d8-af8e-4eea-a0bf-19c9ff8758ab</guid>
-            <pubDate>Thu, 21 Jul 2016 07:03:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

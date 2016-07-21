@@ -1,4 +1,3 @@
-layout_spectrum: 0.7615641157608479
 typography_spectrum: 0.026233767857775092
 color:
   brandStrength: 0.13387036183848977
@@ -11,6 +10,9 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.7615641157608479
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c029fb0-7a23-437b-b226-dd1cd268051d.png
 name: DesignFarm
 navigation:
   - id: 'https://thegrid.ai/designfarm/home/'
@@ -21,3 +23,5 @@ navigation:
     url: 'https://thegrid.ai/designfarm-logos/'
     name: Logos
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fccb7877-6d2a-4b18-b4f8-dd9df3cbe008.ico

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DesignFarm]]></title>
         <description><![CDATA[DesignFarm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designfarm/home/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 06:37:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 06:39:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designfarm/home/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7b2c136-fa33-4483-9e42-15374e06ad4b.jpg" alt="asdasdasdasdas">]]></description>
+            <link>https://thegrid.ai/designfarm/home/asdasdasdasdas/index.html</link>
+            <guid isPermaLink="false">2055a7a7-05d8-49f6-a465-42ba5144c771</guid>
+            <pubDate>Thu, 21 Jul 2016 06:39:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/450b05ff-cdf3-4046-a3cd-be2384457205.png" alt="asdasdsadsa asdkjlasdjas ld jlaskdjasdkl asldk asldkjasldk jasdkl jklsdjasdkl jasdkljas dlk jasdkl jasdlkjas d asldk jasdkl jasdklj lasdjas ldkjas dlaskldjasdkljasdlkasjdlas dkas dj lasdj aslkd jklsdjas ldkjas ld">]]></description>
-            <link>undefineddesign-logos/index.html</link>
+            <link>https://thegrid.ai/designfarm/home/design-logos/index.html</link>
             <guid isPermaLink="false">2fdb8e5a-180f-4289-9b52-fa1b24240904</guid>
             <pubDate>Thu, 21 Jul 2016 06:37:06 GMT</pubDate>
         </item>

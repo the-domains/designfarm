@@ -17,3 +17,7 @@ navigation:
     url: 'https://thegrid.ai/designfarm/home/'
     name: Home
     type: external
+  - id: 'https://thegrid.ai/designfarm-logos/'
+    url: 'https://thegrid.ai/designfarm-logos/'
+    name: Logos
+    type: external

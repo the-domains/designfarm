@@ -14,13 +14,12 @@ layout_spectrum: 0.7615641157608479
 logo: null
 name: DesignFarm
 navigation:
-  - id: 'https://thegrid.ai/designfarm/home/'
+  - name: Home
     url: 'https://thegrid.ai/designfarm/home/'
-    name: Home
     type: external
-  - id: 'https://thegrid.ai/designfarm-logos/'
+  - name: Logos
     url: 'https://thegrid.ai/designfarm-logos/'
-    name: Logos
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fccb7877-6d2a-4b18-b4f8-dd9df3cbe008.ico
+title: DesignFarm
